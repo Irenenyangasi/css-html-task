@@ -3,7 +3,7 @@
 
 ## The task
 
-Build out the QR card component and get it looking as close to the design as possible using HTML and CSS. 
+Build out the QR card component and get it looking as close to the design as possible using HTML and CSS. [https://irenenyangasi.github.io/css-html-task/]
 
 Answer the short questions at the end of this document.
 
